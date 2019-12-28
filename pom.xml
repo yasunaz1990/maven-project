@@ -163,6 +163,7 @@
   </build>
 
   <dependencyManagement>
+   <!-- Dependenies are listed here --> 
     <dependencies>
       <dependency>
         <groupId>javax.servlet</groupId>
